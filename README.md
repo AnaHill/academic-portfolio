@@ -8,10 +8,13 @@ TODO:
   - Kopsaa solita cv:stä
     - 2018/10 -- 2022/10 Postdoc
     - 2011 Doctoral Researcher
-  -  Tutkinot
+  -  Tutkinnot
 - [ ] Links
   - [ ] [Scholar](https://scholar.google.fi/citations?hl=fi&user=bmCs6M0AAAAJ)
   - [ ] [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530)
-  - [ ] DatAnalysis ja muut merkittävimmät
+  - Projektit
+    - [ ] DatAnalysis 
+    - [ ] Write LateX documents
+    - [ ] Tips for academians
+    - [ ] How I would write academic papers: markdown + pandoc + latex
 - [ ] Julkaisulista; miten järkevin päivittää!?!
--  
