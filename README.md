@@ -14,11 +14,18 @@ Summarizing my academic &amp; research activities.
     - 2018/10 -- 2022/10 Postdoc
     - 2011 Doctoral Researcher
   -  Tutkinnot
+
 - [ ] Links
   - [ ] [Scholar](https://scholar.google.fi/citations?hl=fi&user=bmCs6M0AAAAJ)
   - [ ] [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530)
   - [ ] github
-  - Projektit
+
+- [ ] Opettele github pages sivuna 
+  - [esim](https://medium.com/the-data-entrepreneurs/how-to-make-a-free-data-science-portfolio-website-with-github-pages-aa1e4965e155)
+  - github pages [themes](https://pages.github.com/themes/)  
+  - [esimerkkikoodia](https://github.com/ShawhinT/example-portfolio)
+
+- Projektit
     - [ ] DatAnalysis 
     - [ ] Write LateX documents
     - [ ] Tips for academians
