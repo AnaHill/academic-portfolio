@@ -1,4 +1,5 @@
 title: Antti-Juhana Mäki, PhD
-logo: /pics/photo_ajmaki.png
+# logo: /pics/photo_ajmaki.png
+logo: "https://AnaHill.github.io/blob/main/pics/headshot_circle_ajm.png"
 show_downloads: true
 theme: jekyll-theme-minimal
