@@ -30,14 +30,14 @@ This page that shows my **research outcomes**, see also [my Google Scholar profi
 > Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/)**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
-# Main Research Topics, Areas, and Tools
-Shortly: my research focused on **control engineering**, **microfluidics**, **mathematical modeling** using **FEM** (**COMSOL**), and dynamical systems with **Simulink & MATLAB**, and **data analysis** with **MATLAB**.
+# My Research
+Shortly, my research focused on **control engineering**, **microfluidics**, **mathematical modeling** using **FEM** (**COMSOL**), and dynamical systems with **Simulink & MATLAB**, and **data analysis** with **MATLAB**.
 
 ![my_expertise](pics/bubble_expertise_academic.png)
 
-**Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
+<!-- **Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
 
-**Main tools**: MATLAB & Simulink, COMSOL, Soft lithography (pdms)
+**Main tools**: MATLAB & Simulink, COMSOL, Soft lithography (pdms) -->
 <!-- <br> <p align="left">
 <img src="https://skillicons.dev/icons?i=matlab,powershell" />
 </p> <hr> -->
