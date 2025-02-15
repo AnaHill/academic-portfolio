@@ -1,6 +1,6 @@
 <!-- # A-J Mäki, PhD & Hobby Scientist  -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Welcome!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Hobby+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Hobby+Scientist;" />
 </h1>
 
 <!-- changing text
@@ -45,7 +45,8 @@ Shortly: my research focused on **control engineering**, **microfluidics**, **ma
 <!-- ############# -->
 # Education
 D. Sc. (Tech.), Tampere University of Technology, Aug 2018  
-M. Sc. (Tech.), Tampere University of Technology, July 2010
+M. Sc. (Tech.), Tampere University of Technology, July 2010  
+* Student exchange, Hong Kong Polytechnic University, 2006-2007  
 
 <!-- ############# -->
 # Academic Work Experience
@@ -54,14 +55,20 @@ M. Sc. (Tech.), Tampere University of Technology, July 2010
 Currently, I mainly focus on my hobby projects, some of them listed below, on my free. But, please be free to contact me if you would have some research study in your mind!
 
 > [!IMPORTANT]
-> These are on-goin projects that _might_ be ready at some point. :) 
+> These are on-going projects that _might_ be finished at some point. :) 
 
-**My [Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)**
+**[My Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)**
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
+
+**[How to write scientific paper]()** <span style="color:red"> repo coming soon(ish)</span>
+> Continuation to my [Write LaTex Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word), describing how you can combine VS Code + Markdown + Pandoc + LaTeX & Bibtex to easily write and publish high quality papers.
 
 
 ## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
-, 3 julkaisua
+Hourly researcher, work with prof Pasi Kallio
+- Vascular chip
+- 
+- Updating DatAnalysis + Zenodo publication
 
 
 ## Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
