@@ -5,9 +5,8 @@
 - Hobby scientist
 - PhD
 -->
-Welcome to my **academic portfolio** page, where I focus on my academic outcomes. Since March 2023, I have been working as a data engineer at [Solita](https://www.solita.fi/), more about my current work can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
-
-<!-- **Technical Skills**: Azure, Databricks, Python, SQL, MATLAB, Simulink, COMSOL -->
+Hello! I am A-J, former postdoc research and current hobby scientist. 
+This page that shows my **research outcomes**. 
 
 <div align="left">
   Please free to contact me
@@ -23,10 +22,16 @@ Welcome to my **academic portfolio** page, where I focus on my academic outcomes
   </a>
 </div>
 
+> [!NOTE]
+> Since March 2023, I have been working as a data engineer at [Solita](https://www.solita.fi/), more about my current work can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
+
 <!-- ## 🛠️ Main Research Topics, Areas and, Tools -->
 ## Main Research Topics, Areas and, Tools
 ![my_expertise](pics/bubble_expertise_academic.png)
 
+**Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
+
+**Main tools**: MATLAB & Simulink, COMSOL, Soft lithography (pdms)
 <!-- <br> <p align="left">
 <img src="https://skillicons.dev/icons?i=matlab,powershell" />
 </p> <hr> -->
@@ -40,26 +45,27 @@ M. Sc. (Tech.), Tampere University of Technology, July 2010
 ## Academic Work Experience
 
 ### Hobby Scientist (_Jan 2025 - Present_)
-Currently, I mainly focus on my hobby projects listed when I have time. But, please be free to contact me if you would have 
-- My [Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)
+Currently, I mainly focus on my hobby projects, some of them listed below, on my free. But, please be free to contact me if you would have some research study in your mind!
 
-**Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
+> [!IMPORTANT]
+> These are on-goin projects that _might_ be ready at some point. :) 
+
+**My [Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)**
+> Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
+
+
+### Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
 , 3 julkaisua
 
 
-**Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)**
+### Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
 My research focused on control engineering, mathematical modeling (FEM, Simulink & MATLAB), and data analysis with MATLAB.
 
 
 Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
 
-**Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
-
-Postdoctoral Researcher **Sep 2018 -- Nov 2022**, Tampere University --  and Doctoral Researcher
-My research focused on control engineering, mathematical modeling (FEM, Simulink & MATLAB), and data analysis with MATLAB.
-
-Doctoral Researcher **Sep 2011 -- Sep 2018**, Tampere University of Technology
+### Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
 
 
 ## postdoc
