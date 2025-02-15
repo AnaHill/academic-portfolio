@@ -10,6 +10,9 @@ Hello! I am A-J, former postdoc research and current hobby scientist.
 
 This page that shows my **research outcomes**, see also [my Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ) and [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2).
 
+> <span style="color:red">**NOTE** </span>
+> Since March 2023, I have been working as a **data engineer at** [Solita](https://www.solita.fi/ "Solita"), more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
+
 <div align="left">
   Please free to contact me
   <br/>
@@ -26,8 +29,7 @@ This page that shows my **research outcomes**, see also [my Google Scholar profi
 
 <br/>
 
-> [!NOTE]
-> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/)**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
+
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # My Research
@@ -64,7 +66,7 @@ Currently, I mainly focus on my hobby projects, some of them listed below, on my
 > Continuation to my [Write LaTex Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word), describing how you can combine VS Code + Markdown + Pandoc + LaTeX & Bibtex to easily write and publish high quality papers.
 
 
-## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
+## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
 Hourly researcher, work with prof Pasi Kallio
 - Vascular chip
 - 
