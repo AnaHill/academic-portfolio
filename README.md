@@ -1,12 +1,14 @@
-# A-J Mäki, PhD & Hobby Scientist 
+<!-- # A-J Mäki, PhD & Hobby Scientist  -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Welcome!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Hobby+Scientist;" />
+</h1>
+
 <!-- changing text
-- and former Postdoc Researcher
-- Data engineering
-- Hobby scientist
-- PhD
--->
+lines=Hi+There!+👋;+I'm+AJ+Mäki!;" />
 Hello! I am A-J, former postdoc research and current hobby scientist. 
-This page that shows my **research outcomes**. 
+-->
+
+This page that shows my **research outcomes**, see also [my Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ) and [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2).
 
 <div align="left">
   Please free to contact me
@@ -22,11 +24,15 @@ This page that shows my **research outcomes**.
   </a>
 </div>
 
-> [!NOTE]
-> Since March 2023, I have been working as a data engineer at [Solita](https://www.solita.fi/), more about my current work can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
+<br/>
 
-<!-- ## 🛠️ Main Research Topics, Areas and, Tools -->
-## Main Research Topics, Areas and, Tools
+> [!NOTE]
+> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/)**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
+
+<!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
+# Main Research Topics, Areas, and Tools
+Shortly: my research focused on **control engineering**, **microfluidics**, **mathematical modeling** using **FEM** (**COMSOL**), and dynamical systems with **Simulink & MATLAB**, and **data analysis** with **MATLAB**.
+
 ![my_expertise](pics/bubble_expertise_academic.png)
 
 **Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
@@ -37,14 +43,14 @@ This page that shows my **research outcomes**.
 </p> <hr> -->
 
 <!-- ############# -->
-## Education
+# Education
 D. Sc. (Tech.), Tampere University of Technology, Aug 2018  
 M. Sc. (Tech.), Tampere University of Technology, July 2010
 
 <!-- ############# -->
-## Academic Work Experience
+# Academic Work Experience
 
-### Hobby Scientist (_Jan 2025 - Present_)
+## Hobby Scientist (_Jan 2025 - Present_)
 Currently, I mainly focus on my hobby projects, some of them listed below, on my free. But, please be free to contact me if you would have some research study in your mind!
 
 > [!IMPORTANT]
@@ -54,18 +60,18 @@ Currently, I mainly focus on my hobby projects, some of them listed below, on my
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
 
 
-### Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
+## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
 , 3 julkaisua
 
 
-### Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
+## Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
 My research focused on control engineering, mathematical modeling (FEM, Simulink & MATLAB), and data analysis with MATLAB.
 
 
 Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
 
-### Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
+## Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
 
 
 ## postdoc
@@ -102,9 +108,9 @@ Selected References:
 
 
 <!-- ############# -->
-## Projects
+# Projects
 
-### DatAnalyzer: The correct way to analyze FP signals
+## DatAnalyzer: The correct way to analyze FP signals
 Codes and scientific paper freely available
 - [DatAnalyzer home page](https://github.com/AnaHill/DatAnalyzer)  
 - Publication _Opinion: The correct way to analyze FP signals_ available in [Zenodo](https://doi.org/10.5281/zenodo.10205591)
@@ -116,7 +122,7 @@ Developed method and tool (DatAnalyzer) to analyze field potential (FP) signals 
 ![DatAnalyzer in action](/pics/DatAnalyzer.png)
 
 
-### Write LaTeX documents together with co-authors that use MS Word
+## Write LaTeX documents together with co-authors that use MS Word
 Project [page](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) explains how to use this tool
 
 Tools: **Powershell**, **Pandoc**, **LaTeX**, **Markdown**
@@ -130,12 +136,16 @@ For example, this paper freely available [here](https://ieeexplore.ieee.org/docu
 
 <!-- ############# -->
 # Publications
-TODO: will be updated
-- TODO: päivitä .bib tiedosto, nyt huono
-  
-- [ ] Julkaisulista; miten järkevin päivittää!?!
-- bibtex kun syöttää tänne https://bibtex.online/
+See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ) and [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2).
 
+> [!IMPORTANT]
+> TODO: will be updated, need to modify bad .bib file, 
+> maybe convert then here https://bibtex.online/
+  
+## Selected Publications
+
+
+## All Publications
 > Doctoral Thesis
 
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
