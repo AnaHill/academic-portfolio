@@ -1,23 +1,46 @@
-# Current Hobby Scientist and former Postdoc Researcher
-- Notice, this is my **academic portfolio**. My updated work profile is [here](https://anahill.github.io/portfolio/). 
+# A-J Mäki, PhD & Hobby Scientist 
+<!-- changing text
+- and former Postdoc Researcher
+- Data engineering
+- Hobby scientist
+- PhD
+-->
+Welcome to my **academic portfolio** page, where I focus on my academic outcomes. Since March 2023, I have been working as a data engineer at [Solita](https://www.solita.fi/), more about my current work can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/). 
 
-- **Technical Skills**: Azure, Databricks, Python, SQL, MATLAB, Simulink, COMSOL
+<!-- **Technical Skills**: Azure, Databricks, Python, SQL, MATLAB, Simulink, COMSOL -->
 
-- `email` | [maki.antti.j@gmail.com](mailto:maki.antti.j@gmail.com) |  
-- `linkedin` | [antti-juhana-maki](https://www.linkedin.com/in/antti-juhana-maki/) |  
-- `github` | [AnaHill](https://github.com/AnaHill/) |
+<div align="left">
+  Please free to contact me
+  <br/>
+  <a href="mailto:maki.antti.j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/antti-juhana-maki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://anahill.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<!-- ## 🛠️ Main Research Topics, Areas and, Tools -->
+## Main Research Topics, Areas and, Tools
+![my_expertise](pics/bubble_expertise_academic.png)
+
+<!-- <br> <p align="left">
+<img src="https://skillicons.dev/icons?i=matlab,powershell" />
+</p> <hr> -->
 
 <!-- ############# -->
 ## Education
-- D. Sc. (Tech.), Tampere University of Technology, Aug 2018
-- M. Sc. (Tech.), Tampere University of Technology, July 2010
+D. Sc. (Tech.), Tampere University of Technology, Aug 2018  
+M. Sc. (Tech.), Tampere University of Technology, July 2010
 
 <!-- ############# -->
 ## Academic Work Experience
-Since March 2023, I have been working as Data Engineer at Solita, more about that [here](https://anahill.github.io/portfolio/). Here, I list my academic work experiences.
 
-**Hobby Scientis (_Jan 2025 - Present_)**
-Currently, mainly focus on my hobby projects on my free time
+### Hobby Scientist (_Jan 2025 - Present_)
+Currently, I mainly focus on my hobby projects listed when I have time. But, please be free to contact me if you would have 
 - My [Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)
 
 **Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)**
