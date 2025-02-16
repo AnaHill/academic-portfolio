@@ -29,13 +29,12 @@ This page that shows my **research outcomes**, see also [my Google Scholar profi
 
 <br/>
 
-
-
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # My Research
-Shortly, my research focused on **control engineering**, **microfluidics**, **mathematical modeling** using **FEM** (**COMSOL**), and dynamical systems with **Simulink & MATLAB**, and **data analysis** with **MATLAB**.
+My research focused on **control engineering**, **microfluidics**, **mathematical modeling** using both **Simulink & MATLAB** and **FEM** (**COMSOL**), and **data analysis** with **MATLAB**.
 
 ![my_expertise](pics/bubble_expertise_academic.png)
+<!-- TODO: Bubble pic academics + data engineer&nerd -->
 
 <!-- **Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
 
@@ -55,18 +54,15 @@ M. Sc. (Tech.), Tampere University of Technology, July 2010
 - Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
 - Student exchange, Hong Kong Polytechnic University, 2006-2007  
 
-
-<!-- ############# -->
+<!-- ############# WORK ############# -->
 # Academic Work Experience
 
+<!-- ### Hobby Scientist ### -->
 ## Hobby Scientist (_Jan 2025 - Present_)
 Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be free to contact me if you would have some research study in your mind, as doing science is fun! If you got interested in, you can ask more about my research from Professor Pasi Kallio (check [Micro- and Nanosystems Research Group page](https://research.tuni.fi/mst/)). Other references available upon request.
 
-
-
 > <span style="color:blue">**NOTE** </span>
-> These are on-going projects that _might_ be finished at some point. :) 
-
+> These are on-going projects that _might_ be finished at one day. :) 
 
 ### [My Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
@@ -75,75 +71,74 @@ Currently, I focus on continuous learning and on my hobby projects, some of them
 <span style="color:red"> repo coming soon(ish)</span>
 > Continuation to my [Write LaTex Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word), describing how you can combine VS Code + Markdown + Pandoc + LaTeX & Bibtex to easily write and publish high quality papers.
 
+## [How to set up Python environments for data projects](https://github.com/AnaHill/How-to-set-up-Python-environments-for-data-projects)
+> My proposal how to set up environment for (hobby) data projects.
 
+<!-- ### Hourly Researcher ### -->
 ## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
-I continued to work for prof Pasi Kallio
-- Vascular chip
-- 
-- Updating DatAnalysis + Zenodo publication
+I continued to work with Professor Pasi Kallio, finishing following publications. 
 
+Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last author**)
+> I lead a group of  multidisciplinary research team that developed a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies
 
+Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668
+> I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures
+
+Mäki et al. (2023) https://doi.org/10.5281/zenodo.10205591
+> Opinion: The correct way to analyze FP signals 
+> Published in [Zenodo](https://doi.org/10.5281/zenodo.10205591) (not per-reviewed)
+
+<!-- ### Postdoc ### -->
 ## Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
-My research focused on control engineering, mathematical modeling (FEM, Simulink & MATLAB), and data analysis with MATLAB.
+My research focused on **microsystems**, **microfluidics**, **control engineering**, **data analysis** with MATLAB.
+My main tools were **MATLAB**, **Simulink**, **COMSOL (FEM)**, and **soft lithography (PDMS)**.
 
-Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
-Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
+I worked as a postdoc in professor Pasi Kallio's team [1, 2](), where I developed data engineering and analysis solutions to automatize data analysis of several challenging biosignals and data types (e.g. HDF5, .csv, image, and video). My work involved GUI development and implementation of machine learning solutions in MATLAB environment. [3-8]()
 
-I worked as a postdoc in professor Pasi Kallio's team [1, 2], where I developed data engineering and analysis solutions to automatize data analysis of several challenging biosignals and data types (e.g. HDF5, .csv, image, and video). My work involved GUI development and implementation of machine learning solutions in MATLAB environment. [3-8]
+Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2]() combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies [11]().
 
-Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2] combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies.
+**Selected References**
+1. Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/
+2. CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
+3. DatAnalyzer, https://github.com/AnaHill/DatAnalyzer
+4. Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
+5. Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
+6. Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
+7. Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
+8. Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
+9. Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
+10. Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
+11. Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
 
-Links:
-[1] Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/
-[2] CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
-[3] DatAnalyzer, https://github.com/AnaHill/DatAnalyzer
-[4] Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
-[5] Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
-[6] Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
-[7] Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
-[8] Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
-[9] Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
-[10] Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
+## Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)
 
+My main responsibility in the multidisciplinary project was to developed the heat control systems for the autonomous cell cultivation platforms. I was also heavily involved in mathematical modeling and optimization of the cell culture environments, for examaple using FEM-based simulations.
 
-
-## Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
-
-
-## postdoc
-I worked as a postdoc in professor Pasi Kallio's team [1, 2], where I developed data engineering and analysis solutions to automatize data analysis of several challenging biosignals and data types (e.g. HDF5, .csv, image, and video). My work involved GUI development and implementation of machine learning solutions in MATLAB environment. [3-8]
-
-Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2] combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies.
-
-Links:
-[1] Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/
-[2] CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
-[3] DatAnalyzer, https://github.com/AnaHill/DatAnalyzer
-[4] Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
-[5] Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
-[6] Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
-[7] Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
-[8] Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
-[9] Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
-[10] Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
+**Selected References**
+1. Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
+2. Mäki et al. (2018) https://doi.org/10.1177/2472630318768710
+3. Mäki et al. (2018) https://doi.org/10.1109/TASE.2016.2613912
+4. Mäki et al. (2015) https://doi.org/10.1016/j.ces.2015.06.065
+1. Mäki et al. (2015) https://doi.org/10.1115/1.4028501
+2. Kreutzer et al. (2017) https://doi.org/10.1016/j.jneumeth.2017.01.019
+3. Rajan et al. (2020) https://doi.org/10.1109/ACCESS.2020.3001191
+4. Skogberg et al. (2017) https://doi.org/10.1021/acs.biomac.7b00963
 
 
-# PhD
-My main responsibility in the multidisciplinary project was to developed the heat control systems for the autonomous cell cultivation platforms. I was also heavily involved in mathematical modeling and optimization of the cell culture
-environments, for examaple using FEM-based simulations.
+## Project Researcher @ Tampere University of Technology (_Aug 2010 - Sep 2011_)
+
+My study was related to immunoassay in microchannels and how they could be used in patient diagnostic.
+
+
+## Thesis Worker and Research Assistant @ Tampere University of Technology (_June 2006 - Aug 2010_)
+I worked in OPTIMI (Optically actuated microfluidics) project funded by Academy of Finland and collaborated with researchers from Helsinki University of Technology. My task was to model and test optically induced electric fields and to study how they could be used in microfluidics applications. [1, 2]
 
 Selected References:
-[1] Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
-[2] Mäki et al. (2018) https://doi.org/10.1177/2472630318768710
-[3] Mäki et al. (2018) https://doi.org/10.1109/TASE.2016.2613912
-[4] Mäki et al. (2015) https://doi.org/10.1016/j.ces.2015.06.065
-[5] Mäki et al. (2015) https://doi.org/10.1115/1.4028501
-[6] Kreutzer et al. (2017) https://doi.org/10.1016/j.jneumeth.2017.01.019
-[7] Rajan et al. (2020) https://doi.org/10.1109/ACCESS.2020.3001191
-[8] Skogberg et al. (2017) https://doi.org/10.1021/acs.biomac.7b00963
+1. Master thesis (2010), titled 'Optically induced electric fields and their use in microfluidics and cell manipulation applications' is available in https://urn.fi/URN:NBN:fi:tty-201008171286
+2. Mäki et al. (2010).  'Modeling continuous optoelectrowetting device', in Proceedings of the 2nd European Conference on Microfluidics - Microfluidics 2010, Toulouse, December 8-10, 2010, https://researchportal.tuni.fi/en/publications/modeling-continuous-optoelectrowetting-device
 
 
-<!-- ############# -->
+<!-- ############# Projects ############# -->
 # Projects
 ## Coeboc
 CoEBOC, '_Centre of Excellence in Body on-Chip Research_' is Academy of Finland funded project for the years 2018-2025. [1] 
@@ -152,7 +147,6 @@ The ultimate goal of CoEBoC is to revolutionize healthcare by developing and app
 CoEBoC brought together six research groups from Tampere University: microsystems and microfluidics, biomaterials, adult stem cell research, cardiac and neural cell cultures, and computational biophysics and imaging.
 
 **Role**: Postdoctoral Researcher in professor Pasi Kallio's team [2], my main tasks were analyzing cell culture data, numerical simulations (FEM), leading a group that developed a novel "body-on-chip" platform for vascularized 3D cell co-cultures [3], and designing control systems [4]. 
-TODO: linkki vascu
 
 **Keywords**: microsystems, microfluidics, fem, data analysis, control engineering, iPS, adult stem cells, cardiomyocyte, neuron, imaging
 
@@ -166,15 +160,15 @@ TODO: linkki vascu
 ## HS: Human Spare Parts, 2011-2019
 In this multidisciplinary, research-oriented Business Finland (former TEKES) Human Spare Parts - project between Tampere Universities, the goal was to develop stem cell-based advanced in vitro models and solutions for cardiac, neural, bone, and adipose diseases and traumas. It combined tens of experts from different research fields, such as microsystems, stem cells, biomaterials, and biomedical engineering, and produced several leading edge in vitro models and solutions.
 
-Role: Doctoral Researcher in professor Pasi Kallio's team, I was responsible for simulate and developed novel control solutions for in vitro cell culture environments. [1]
+**Role**: Doctoral Researcher in professor Pasi Kallio's team, I was responsible for simulate and developed novel control solutions for in vitro cell culture environments. [1]
 
-Industry & data: research, analytical
-Keywords: microsystems, microfluidics, iPS, adult stem cells, biomaterials, biomedical engineering
+**Keywords**: microsystems, microfluidics, iPS, adult stem cells, biomaterials, biomedical engineering
 
-Reference:
-1. Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
+**References**: 
+See _Selected References_ list in [Doctoral Researcher](#doctoral-researcher--tampere-university-of-technology-sep-2011---aug-2018) section.
 
 
+<!-- ### Repos/Other project ### -->
 ## DatAnalyzer: The correct way to analyze FP signals
 Codes and scientific paper freely available
 - [DatAnalyzer home page](https://github.com/AnaHill/DatAnalyzer)  
