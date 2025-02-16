@@ -8,7 +8,8 @@ Welcome to My Research Portfolio
   <a href="#about">About</a> |
   <a href="#My-research">Research</a> |
   <a href="#projects">Projects</a> |
-  <a href="#contact">Contact</a>
+  <a href="#publications">Publications</a> |
+  <!-- <a href="#contact">Contact</a> -->
 </nav>
 
 
@@ -245,7 +246,7 @@ See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0A
 
 </details>
 
-## All Publications
+## Full Publications List
 <details>
   <summary> List </summary>  
 
