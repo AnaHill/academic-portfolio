@@ -87,9 +87,9 @@ Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last au
 Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668
 > I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures
 
-Mäki et al. (2023) https://doi.org/10.5281/zenodo.10205591
-> Opinion: The correct way to analyze FP signals 
-> Published in [Zenodo](https://doi.org/10.5281/zenodo.10205591) (not per-reviewed)
+Mäki et al. (2023) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
+> Opinion: The correct way to analyze FP signals, published in (not peer-reviewed)
+
 
 <!-- ### Postdoc ### -->
 ## Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
@@ -101,9 +101,9 @@ I worked as a postdoc in professor Pasi Kallio's team [1, 2](), where I develope
 Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2]() combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies [11]().
 
 **Selected References**
-1. Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/
-2. CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
-3. DatAnalyzer, https://github.com/AnaHill/DatAnalyzer
+1. Micro- and Nanosystems Research Group, [https://research.tuni.fi/mst/](https://research.tuni.fi/mst/)
+2. CoEBoC, Centre of Excellence in Body on-Chip Research, [https://research.tuni.fi/coeboc/](https://research.tuni.fi/coeboc/)
+3. DatAnalyzer, [Github-repo](https://github.com/AnaHill/DatAnalyzer)
 4. Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
 5. Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
 6. Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
@@ -234,23 +234,28 @@ See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0A
 > <span style="color:red">**NOTE** </span>
 > This section will be updated, need to modify bad .bib file, maybe convert then here https://bibtex.online/. 
 
-  
-## Selected Publications
 
+## Selected Publications
+<details>
+  <summary> List </summary>  
+> Yrjänäinen, Alma, Elina, Mesiä, Ella, Lampela, Joose, Kreutzer, Jorma, Vihinen, Kaisa, Tornberg, Hanna, Vuorenpää, Susanna, Miettinen, Pasi, Kallio, and **Antti-Juhana, Mäki**. "Barrier-free, open-top microfluidic chip for generating two distinct, interconnected 3D microvascular networks".Scientific Reports 14, no.1 (2024): 22916.
+
+> 
+
+</details>
 
 ## All Publications
-> Doctoral Thesis
+<details>
+  <summary> List </summary>  
 
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
-
-
 > Yrjänäinen, Alma, Elina, Mesiä, Ella, Lampela, Joose, Kreutzer, Jorma, Vihinen, Kaisa, Tornberg, Hanna, Vuorenpää, Susanna, Miettinen, Pasi, Kallio, and **Antti-Juhana, Mäki**. "Barrier-free, open-top microfluidic chip for generating two distinct, interconnected 3D microvascular networks".Scientific Reports 14, no.1 (2024): 22916.
->
+
 >Mykuliak, A, A, Yrjänäinen, AJ, Mäki, A, Gebraad, E, Lampela, M, Kääriäinen, TK, Pakarinen, P, Kallio, S, Miettinen, and H, Vuorenpää. "Vasculogenic potency of bone marrow-and adipose tissue-derived mesenchymal stem/stromal cells results in differing vascular network phenotypes in a microfluidic chip. Front Bioeng Biotechnol 10: 764237".Frontiers in Bioengineering and Biotechnology| www. frontiersin. org 10 (2022).
->
+
 >Mäki, Antti-Juhana, and others. "Optically induced electric fields and their use in microfluidics and cell manipulation applications".Journal is required! (2010).
->
+
 >Maki, Antti-Juhana, Pekka, Ronkanen, Quan, Zhou, and Pasi, Kallio. "Modeling continuous optoelectrowetting device." . In 2nd European Conference on Microfluidics (pp. $μ$FLU10–270).2010.
 >
 >Mäki, Antti-Juhana, Joose, Kreutzer, and Pasi, Kallio. "Modeling Drug Delivery in Gravity-Driven Microfluidic System." . In 12th International Conference on Nanochannels, Microchannels, and Minichannels (ICNMM2014), 2014, in press.2014.
@@ -317,5 +322,5 @@ See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0A
 >
 >Ryynänen, Tomi, A, Karttu, A, Mäki, L, Sukki, J, Väliaho, H, Välimäki, D, Rajan, J, Kreutzer, J, Lekkala, and P, Kallio. "Custom-designed 2D microelectrode array fabrication." . In EUROOoCs conference of European Organ-on-Chip Society.2019.
 >
->
->
+
+</details>
