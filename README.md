@@ -8,13 +8,12 @@ lines=Hi+There!+👋;+I'm+AJ+Mäki!;" />
 Hello! I am A-J, former postdoc research and current hobby scientist. 
 -->
 
-Welcome to my **research outcomes** pages
-- [my Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
-- [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
+Welcome to my **research outcomes** pages. <span style="color:red">**NOTE** </span> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). Check also my
+
+- [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
+- [doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
 - [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
 
-> <span style="color:red">**NOTE** </span>
-> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
 
 <div align="left">
   Please free to contact me
@@ -48,7 +47,7 @@ My research focused on **control engineering**, **microfluidics**, **mathematica
 
 <!-- ############# -->
 # Education
-D. Sc. (Tech.), Tampere University of Technology, Aug 2018
+D. Sc. (Tech.), Tampere University of Technology, Sep 2018
 - Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
 
 > My Ph.D. work involved designing and implementing automation and control systems, mathematical modeling and data handling using MATLAB and Simulink, FEM simulations with COMSOL, and much laboratory and design work related to microsystems & microfluidics.
