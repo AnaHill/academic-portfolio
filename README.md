@@ -170,15 +170,20 @@ See _Selected References_ list in [Doctoral Researcher](#doctoral-researcher--ta
 
 <!-- ### Repos/Other project ### -->
 ## DatAnalyzer: The correct way to analyze FP signals
-Codes and scientific paper freely available
+Tools to load, visualize, and analyse data using MATLAB.
 - [DatAnalyzer home page](https://github.com/AnaHill/DatAnalyzer)  
 - Publication _Opinion: The correct way to analyze FP signals_ available in [Zenodo](https://doi.org/10.5281/zenodo.10205591)
 
-Tools: **MATLAB**
+Tools and keywords: **MATLAB**, **data analysis**, **MEA**, **hiPS-CM**
 
 Developed method and tool (DatAnalyzer) to analyze field potential (FP) signals from 2D human induced pluripotent stem cells derived cardiomyocyte (hiPSC-CM) cultures. I summarized how FP signals have been analyzed various, sometimes even contradictory, ways in the literature, and proposed my own methdod that could be considered.
 
 ![DatAnalyzer in action](/pics/DatAnalyzer.png)
+
+Software has been used at least in the following publications:
+- Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
+- Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
+- Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
 
 
 ## Write LaTeX documents together with co-authors that use MS Word
@@ -192,6 +197,16 @@ For example, this paper freely available [here](https://ieeexplore.ieee.org/docu
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
 ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
+
+## Plot Fluke Ti400 thermal images
+Plot Thermal images from Fluke Ti400 using MATLAB, code available in: https://github.com/AnaHill/Plot_Fluke_Ti400_thermal_images
+
+Tools and keywords: **MATLAB**, **PowerShell**, **thermal images**
+
+Used at least in this publication 
+> Skogberg et al. (2022), https://doi.org/10.1039/D1NR06937C
+
+
 
 # Language
 Finnish: Mother tongue
