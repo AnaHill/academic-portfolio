@@ -1,22 +1,20 @@
+**NOTE** </span> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
 <!-- # A-J Mäki, PhD & Hobby Scientist -->
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Current+Hobby+Scientist;" />
 </h1>
+Welcome to My Research Portfolio  
+<nav>
+  <a href="#about">About</a> |
+  <a href="#My-research">Research</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#contact">Contact</a>
+</nav>
 
-<!-- changing text
-lines=Hi+There!+👋;+I'm+AJ+Mäki!;" />
-Hello! I am A-J, former postdoc research and current hobby scientist. 
--->
 
-Welcome to my **research outcomes** pages. <span style="color:red">**NOTE** </span> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). Check also my
-
-- [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
-- [doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
-- [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
-
+Please free to contact me
 
 <div align="left">
-  Please free to contact me
   <br/>
   <a href="mailto:maki.antti.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,6 +31,10 @@ Welcome to my **research outcomes** pages. <span style="color:red">**NOTE** </sp
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # My Research
+- [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
+- [doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
+- [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
+
 My research focused on **control engineering**, **microfluidics**, **mathematical modeling** using both **Simulink & MATLAB** and **FEM** (**COMSOL**), and **data analysis** with **MATLAB**.
 
 ![my_expertise](pics/bubble_expertise_academic.png)
