@@ -1,6 +1,6 @@
-<!-- # A-J Mäki, PhD & Hobby Scientist  -->
+<!-- # A-J Mäki, PhD & Hobby Scientist -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Hobby+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Current+Hobby+Scientist;" />
 </h1>
 
 <!-- changing text
@@ -8,10 +8,13 @@ lines=Hi+There!+👋;+I'm+AJ+Mäki!;" />
 Hello! I am A-J, former postdoc research and current hobby scientist. 
 -->
 
-This page that shows my **research outcomes**, see also [my Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ) and [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2).
+Welcome to my **research outcomes** pages
+- [my Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
+- [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
+- [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
 
 > <span style="color:red">**NOTE** </span>
-> Since March 2023, I have been working as a **data engineer at** [Solita](https://www.solita.fi/ "Solita"), more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
+> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
 
 <div align="left">
   Please free to contact me
@@ -226,11 +229,11 @@ Mandarin: A1
 
 <!-- ############# -->
 # Publications
-See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ) and [my doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2).
+See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ).
 
-> [!IMPORTANT]
-> TODO: will be updated, need to modify bad .bib file, 
-> maybe convert then here https://bibtex.online/
+> <span style="color:red">**NOTE** </span>
+> This section will be updated, need to modify bad .bib file, maybe convert then here https://bibtex.online/. 
+
   
 ## Selected Publications
 
