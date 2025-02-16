@@ -46,28 +46,38 @@ Shortly, my research focused on **control engineering**, **microfluidics**, **ma
 
 <!-- ############# -->
 # Education
-D. Sc. (Tech.), Tampere University of Technology, Aug 2018  
+D. Sc. (Tech.), Tampere University of Technology, Aug 2018
+- Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
+
+> My Ph.D. work involved designing and implementing automation and control systems, mathematical modeling and data handling using MATLAB and Simulink, FEM simulations with COMSOL, and much laboratory and design work related to microsystems & microfluidics.
+
 M. Sc. (Tech.), Tampere University of Technology, July 2010  
-* Student exchange, Hong Kong Polytechnic University, 2006-2007  
+- Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
+- Student exchange, Hong Kong Polytechnic University, 2006-2007  
+
 
 <!-- ############# -->
 # Academic Work Experience
 
 ## Hobby Scientist (_Jan 2025 - Present_)
-Currently, I mainly focus on my hobby projects, some of them listed below, on my free. But, please be free to contact me if you would have some research study in your mind!
+Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be free to contact me if you would have some research study in your mind, as doing science is fun! If you got interested in, you can ask more about my research from Professor Pasi Kallio (check [Micro- and Nanosystems Research Group page](https://research.tuni.fi/mst/)). Other references available upon request.
 
-> [!IMPORTANT]
+
+
+> <span style="color:blue">**NOTE** </span>
 > These are on-going projects that _might_ be finished at some point. :) 
 
-**[My Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)**
+
+### [My Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
 
-**[How to write scientific paper]()** <span style="color:red"> repo coming soon(ish)</span>
+## [How to write scientific paper]() 
+<span style="color:red"> repo coming soon(ish)</span>
 > Continuation to my [Write LaTex Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word), describing how you can combine VS Code + Markdown + Pandoc + LaTeX & Bibtex to easily write and publish high quality papers.
 
 
 ## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
-Hourly researcher, work with prof Pasi Kallio
+I continued to work for prof Pasi Kallio
 - Vascular chip
 - 
 - Updating DatAnalysis + Zenodo publication
@@ -76,9 +86,26 @@ Hourly researcher, work with prof Pasi Kallio
 ## Postdoctoral Research Fellow @ Tampere University (_Sep 2018 - Nov 2022_)
 My research focused on control engineering, mathematical modeling (FEM, Simulink & MATLAB), and data analysis with MATLAB.
 
-
 Main research areas: **microsystems**, **microfluidics**, **control engineering**, **data analysis**
 Main tools: **MATLAB**, **Simulink**, **COMSOL (FEM)**, 
+
+I worked as a postdoc in professor Pasi Kallio's team [1, 2], where I developed data engineering and analysis solutions to automatize data analysis of several challenging biosignals and data types (e.g. HDF5, .csv, image, and video). My work involved GUI development and implementation of machine learning solutions in MATLAB environment. [3-8]
+
+Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2] combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies.
+
+Links:
+[1] Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/
+[2] CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
+[3] DatAnalyzer, https://github.com/AnaHill/DatAnalyzer
+[4] Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
+[5] Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
+[6] Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
+[7] Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
+[8] Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
+[9] Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
+[10] Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
+
+
 
 ## Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)**
 
@@ -101,7 +128,7 @@ Links:
 [10] Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
 
 
-## phd
+# PhD
 My main responsibility in the multidisciplinary project was to developed the heat control systems for the autonomous cell cultivation platforms. I was also heavily involved in mathematical modeling and optimization of the cell culture
 environments, for examaple using FEM-based simulations.
 
@@ -118,6 +145,35 @@ Selected References:
 
 <!-- ############# -->
 # Projects
+## Coeboc
+CoEBOC, '_Centre of Excellence in Body on-Chip Research_' is Academy of Finland funded project for the years 2018-2025. [1] 
+The ultimate goal of CoEBoC is to revolutionize healthcare by developing and applying body on-chip (BoC) technology and enable more accurate and efficient drug testing, as well as by discovering new tools for diagnosing and treating diseases at the cellular level.
+
+CoEBoC brought together six research groups from Tampere University: microsystems and microfluidics, biomaterials, adult stem cell research, cardiac and neural cell cultures, and computational biophysics and imaging.
+
+**Role**: Postdoctoral Researcher in professor Pasi Kallio's team [2], my main tasks were analyzing cell culture data, numerical simulations (FEM), leading a group that developed a novel "body-on-chip" platform for vascularized 3D cell co-cultures [3], and designing control systems [4]. 
+TODO: linkki vascu
+
+**Keywords**: microsystems, microfluidics, fem, data analysis, control engineering, iPS, adult stem cells, cardiomyocyte, neuron, imaging
+
+**References**
+1. CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
+2. Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/ 
+3. Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
+4. Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668
+
+
+## HS: Human Spare Parts, 2011-2019
+In this multidisciplinary, research-oriented Business Finland (former TEKES) Human Spare Parts - project between Tampere Universities, the goal was to develop stem cell-based advanced in vitro models and solutions for cardiac, neural, bone, and adipose diseases and traumas. It combined tens of experts from different research fields, such as microsystems, stem cells, biomaterials, and biomedical engineering, and produced several leading edge in vitro models and solutions.
+
+Role: Doctoral Researcher in professor Pasi Kallio's team, I was responsible for simulate and developed novel control solutions for in vitro cell culture environments. [1]
+
+Industry & data: research, analytical
+Keywords: microsystems, microfluidics, iPS, adult stem cells, biomaterials, biomedical engineering
+
+Reference:
+1. Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
+
 
 ## DatAnalyzer: The correct way to analyze FP signals
 Codes and scientific paper freely available
@@ -142,6 +198,22 @@ For example, this paper freely available [here](https://ieeexplore.ieee.org/docu
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
 ![How to write LaTeX documents using Word](/pics/write_latex_documents_with_Word.png)
+
+# Language
+Finnish: Mother tongue
+English: C2 (full professional working proficiency)
+Swedish: A2
+German: A1
+Mandarin: A1
+
+# Merits
+- Invention disclosures
+  <!-- - Miinan keksari  -->
+  - TKS0222021 MEA-signaalin analyysityökalu (”MEA analysis tool”), granted 05/2021
+  - TKS0612020 Pilarivapaa 3D monisolukasvatuschippi (”Barrier-free 3D co-culture chip”), granted 06/2020
+- Member of the Organizing Committee, Nordic Organ on a Chip Symposium 2019, 08/2019
+- Member of Future Finders network, Tampere University 2019-2022
+- Finnish military rank: second lieutenant
 
 <!-- ############# -->
 # Publications
