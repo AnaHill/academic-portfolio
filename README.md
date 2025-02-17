@@ -10,7 +10,8 @@ Welcome to My Research Portfolio.
   <a href="#publications">Publications</a> |
   <!-- <a href="#contact">Contact</a> -->
 </nav>
-</br>
+
+<!-- </br> -->
 
 <span style="color:red"> **NOTE** </span> Currently, I work as a **data engineer[@Solita](https://www.solita.fi/ "Solita")**, more about that can be found <span style="color:red"> [**here**](https://anahill.github.io/portfolio/ "my work portfolio")</span>. 
 
@@ -31,12 +32,7 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
-<br/>
-
-
-
-
-
+<!-- <br/> -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # Research
@@ -51,8 +47,7 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
-<br/>
-
+<!-- <br/> -->
 
 <!-- links 
 - [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
@@ -75,13 +70,13 @@ My research focused on **control engineering**, **microfluidics**, **mathematica
 <!-- ############# -->
 # Education
 D. Sc. (Tech.), Tampere University of Technology, Sep 2018
-- Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
+> Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
 
-> My Ph.D. work involved designing and implementing automation and control systems, mathematical modeling and data handling using MATLAB and Simulink, FEM simulations with COMSOL, and much laboratory and design work related to microsystems & microfluidics.
+My Ph.D. work involved designing and implementing automation and control systems, mathematical modeling and data handling using MATLAB and Simulink, FEM simulations with COMSOL, and much laboratory and design work related to microsystems & microfluidics.
 
 M. Sc. (Tech.), Tampere University of Technology, July 2010  
-- Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
-- Student exchange, Hong Kong Polytechnic University, 2006-2007  
+> Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
+<!-- - Student exchange, Hong Kong Polytechnic University, 2006-2007   -->
 
 <!-- ############# WORK ############# -->
 # Academic Work Experience
@@ -139,8 +134,9 @@ I worked as a postdoc in professor Pasi Kallio's team [1, 2](), where I develope
 
 Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2]() combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies [11]().
 
+**Selected References**  
 <details>
-  <summary> **Selected References** </summary>  
+  <summary> Show </summary>  
 
 1. Micro- and Nanosystems Research Group, [https://research.tuni.fi/mst/](https://research.tuni.fi/mst/)
 2. CoEBoC, Centre of Excellence in Body on-Chip Research, [https://research.tuni.fi/coeboc/](https://research.tuni.fi/coeboc/)
@@ -159,8 +155,9 @@ Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary Co
 
 My main responsibility in the multidisciplinary project was to developed the heat control systems for the autonomous cell cultivation platforms. I was also heavily involved in mathematical modeling and optimization of the cell culture environments, for examaple using FEM-based simulations.
 
+**Selected References**  
 <details>
-  <summary> **Selected References** </summary>  
+  <summary> Show </summary>  
 1. Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
 2. Mäki et al. (2018) https://doi.org/10.1177/2472630318768710
 3. Mäki et al. (2018) https://doi.org/10.1109/TASE.2016.2613912
@@ -181,7 +178,7 @@ My study was related to immunoassay in microchannels and how they could be used 
 I worked in OPTIMI (Optically actuated microfluidics) project funded by Academy of Finland and collaborated with researchers from Helsinki University of Technology. My task was to model and test optically induced electric fields and to study how they could be used in microfluidics applications. [1, 2]
 
 <details>
-  <summary> **Selected References** </summary>  
+  <summary> Show  References </summary>  
 1. Master thesis (2010), titled 'Optically induced electric fields and their use in microfluidics and cell manipulation applications' is available in https://urn.fi/URN:NBN:fi:tty-201008171286
 2. Mäki et al. (2010).  'Modeling continuous optoelectrowetting device', in Proceedings of the 2nd European Conference on Microfluidics - Microfluidics 2010, Toulouse, December 8-10, 2010, https://researchportal.tuni.fi/en/publications/modeling-continuous-optoelectrowetting-device
 </details>
@@ -200,7 +197,7 @@ CoEBoC brought together six research groups from Tampere University: microsystem
 **Keywords**: microsystems, microfluidics, fem, data analysis, control engineering, iPS, adult stem cells, cardiomyocyte, neuron, imaging
 
 <details>
-  <summary> **Selected References** </summary>  
+  <summary> Show  </summary>  
 1. CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
 2. Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/ 
 3. Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
@@ -297,7 +294,7 @@ See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0A
 
 ## Selected Publications
 <details>
-  <summary> List </summary>  
+  <summary> Show </summary>  
 
 > Yrjänäinen, Alma, Elina, Mesiä, Ella, Lampela, Joose, Kreutzer, Jorma, Vihinen, Kaisa, Tornberg, Hanna, Vuorenpää, Susanna, Miettinen, Pasi, Kallio, and **Antti-Juhana, Mäki**. "Barrier-free, open-top microfluidic chip for generating two distinct, interconnected 3D microvascular networks".Scientific Reports 14, no.1 (2024): 22916.
 
