@@ -1,22 +1,26 @@
-**NOTE** </span> Since March 2023, I have been working as a **data engineer at [Solita](https://www.solita.fi/ "Solita")**, more about that can be found [<span style="color:red"> here</span>](https://anahill.github.io/portfolio/ "my work portfolio"). 
 <!-- # A-J Mäki, PhD & Hobby Scientist -->
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Current+Hobby+Scientist;" />
 </h1>
-Welcome to My Research Portfolio  
-<nav>
-  <a href="#about">About</a> |
-  <a href="#My-research">Research</a> |
+Welcome to My Research Portfolio.
+<nav> 
+  <!-- <a href="#about">About</a> | -->
+  <a href="#research">Research</a> |
   <a href="#projects">Projects</a> |
   <a href="#publications">Publications</a> |
   <!-- <a href="#contact">Contact</a> -->
 </nav>
+</br>
 
+<span style="color:red"> **NOTE** </span> Currently, I work as a **data engineer[@Solita](https://www.solita.fi/ "Solita")**, more about that can be found <span style="color:red"> [**here**](https://anahill.github.io/portfolio/ "my work portfolio")</span>. 
 
-Please free to contact me
+I’d love to hear from you! Whether you have an exciting research idea where I could contribute—because science is fun! 👨‍🔬—or just want to discuss my work, feel free to reach out.  
+
+For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/). 🔍 *Additional references are available upon request.*  
+<!-- Other references available upon request  -->
+
 
 <div align="left">
-  <br/>
   <a href="mailto:maki.antti.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -27,14 +31,34 @@ Please free to contact me
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <br/>
 
+
+
+
+
+
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
-# My Research
+# Research
+<div align="left">
+  <a href="https://scholar.google.com/citations?user=bmCs6M0AAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" target="_blank" />
+  </a>
+  <a href="https://orcid.org/0000-0001-7565-3530" target="_blank">
+    <img src="https://img.shields.io/badge/ORCHID%20X-Blue.svg" />
+  </a>
+  <a href="https://anahill.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br/>
+
+
+<!-- links 
 - [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
 - [doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
 - [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
+-->
 
 My research focused on **control engineering**, **microfluidics**, **mathematical modeling** using both **Simulink & MATLAB** and **FEM** (**COMSOL**), and **data analysis** with **MATLAB**.
 
@@ -64,33 +88,46 @@ M. Sc. (Tech.), Tampere University of Technology, July 2010
 
 <!-- ### Hobby Scientist ### -->
 ## Hobby Scientist (_Jan 2025 - Present_)
-Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be free to contact me if you would have some research study in your mind, as doing science is fun! If you got interested in, you can ask more about my research from Professor Pasi Kallio (check [Micro- and Nanosystems Research Group page](https://research.tuni.fi/mst/)). Other references available upon request.
+Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be do not hesitate to contact me if you would have some research study in your mind. 👨‍🔬
 
-> <span style="color:blue">**NOTE** </span>
-> These are on-going projects that _might_ be finished at one day. :) 
+<span style="color:blue">**NOTE** </span>
+These are on-going projects that _might_ be finished at one day. 🤓
 
-### [My Tips for Academy](https://github.com/AnaHill/Tips-for-Academy)
+### My Tips for Academy [link](https://github.com/AnaHill/Tips-for-Academy)
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
 
-## [How to write scientific paper]() 
-<span style="color:red"> repo coming soon(ish)</span>
-> Continuation to my [Write LaTex Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word), describing how you can combine VS Code + Markdown + Pandoc + LaTeX & Bibtex to easily write and publish high quality papers.
+### How to write scientific papers [<span style="color:red"> repo coming soon(ish)</span>]() 
 
-## [How to set up Python environments for data projects](https://github.com/AnaHill/How-to-set-up-Python-environments-for-data-projects)
-> My proposal how to set up environment for (hobby) data projects.
+> A follow-up to my [Write LaTeX Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) guide, this post explores how you can leverage **VS Code, Markdown, Pandoc, LaTeX, and BibTeX** to efficiently format and publish high-quality (scientific) papers.  
+> 
+> **P.S.** 🚀 *Effortless writing not guaranteed—but at least the workflow is smooth(er)!* 🤓  
+
+### How to set up Python environments for data projects [link](https://github.com/AnaHill/How-to-set-up-Python-environments-for-data-projects)
+> My proposal how to set up Python environment for (hobby) data projects by combining  **Miniconda, pip Code,...**
 
 <!-- ### Hourly Researcher ### -->
 ## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
-I continued to work with Professor Pasi Kallio, finishing following publications. 
+I continued to work as a part-time researcher with Professor Pasi Kallio, finishing following publications. 
 
-Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last author**)
-> I lead a group of  multidisciplinary research team that developed a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies
+> Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last author**)
 
-Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668
-> I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures
+🚀 *Bringing the future of tissue engineering one step closer!*  
+I lead a **multidisciplinary research team** that has developed a groundbreaking **"body-on-chip" platform** for studying vascularized **3D cell co-cultures**. Our team introduced an **innovative open-top microfluidic chip** that enables the cultivation of **two distinct 3D cell cultures** within a single device—**without physical barriers**. This breakthrough technology opens new possibilities for **studying cell-cell interactions** in a precisely controlled microenvironment and advancing **drug testing** applications.  
 
-Mäki et al. (2023) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
-> Opinion: The correct way to analyze FP signals, published in (not peer-reviewed)
+
+
+> Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668  
+
+I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures. This research offers valuable guidance for scientists aiming to standardize experimental conditions and improve the reliability of cardiomyocyte-based assays.
+
+
+> Mäki et al. (2023) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
+
+In November 2023, I published a comprehensive report titled **"Opinion: The correct way to analyze FP signals"**. This work encapsulates my extensive experience in analyzing **field potential (FP) signals** derived from **2D human-induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) cultures**. 
+
+While developing the **DatAnalyzer** software ([GitHub Repository](https://github.com/AnaHill/DatAnalyzer?utm_source=chatgpt.com)), I observed a wide array of methodologies used for FP signal analysis across various studies. This inconsistency often led to confusion, highlighting the need for a **cohesive analytical framework**.  
+
+Driven by this realization, I dedicated significant effort to produce an academically rigorous report that—despite not undergoing formal peer review process—offers valuable **insights and guidance** for researchers navigating the complexities of FP signal analysis.  
 
 
 <!-- ### Postdoc ### -->
@@ -102,33 +139,38 @@ I worked as a postdoc in professor Pasi Kallio's team [1, 2](), where I develope
 
 Additionally, I worked as professor Kallio’s Vice-PI in a multidisciplinary CoEBoC team [2]() combining cell biologists and engineers, and led a group of researchers developing a novel "body-on-chip" platform for vascularized 3D cell co-cultures studies [11]().
 
-**Selected References**
+<details>
+  <summary> **Selected References** </summary>  
+
 1. Micro- and Nanosystems Research Group, [https://research.tuni.fi/mst/](https://research.tuni.fi/mst/)
 2. CoEBoC, Centre of Excellence in Body on-Chip Research, [https://research.tuni.fi/coeboc/](https://research.tuni.fi/coeboc/)
 3. DatAnalyzer, [Github-repo](https://github.com/AnaHill/DatAnalyzer)
-4. Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
-5. Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
-6. Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
-7. Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
-8. Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
-9. Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
-10. Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
-11. Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
+2. Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
+3. Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
+4. Mykuliak et al. (2022) https://doi.org/10.3389%2Ffbioe.2022.764237
+5. Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
+6. Skogberg et al. (2022) https://doi.org/10.1039/D1NR06937C
+7. Tornberg et al. (2022) https://doi.org/10.1007/s10544-022-00634-y 
+8.  Peussa et al. (2022) https://doi.org/10.1371/journal.pone.0268570
+9.  Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
+</details>
 
 ## Doctoral Researcher @ Tampere University of Technology (_Sep 2011 - Aug 2018_)
 
 My main responsibility in the multidisciplinary project was to developed the heat control systems for the autonomous cell cultivation platforms. I was also heavily involved in mathematical modeling and optimization of the cell culture environments, for examaple using FEM-based simulations.
 
-**Selected References**
+<details>
+  <summary> **Selected References** </summary>  
 1. Doctoral dissertation (2018), titled 'Modeling and Control of Microscale Cell Culture Environments' is available in https://urn.fi/URN:ISBN:978-952-15-4174-2
 2. Mäki et al. (2018) https://doi.org/10.1177/2472630318768710
 3. Mäki et al. (2018) https://doi.org/10.1109/TASE.2016.2613912
 4. Mäki et al. (2015) https://doi.org/10.1016/j.ces.2015.06.065
-1. Mäki et al. (2015) https://doi.org/10.1115/1.4028501
-2. Kreutzer et al. (2017) https://doi.org/10.1016/j.jneumeth.2017.01.019
-3. Rajan et al. (2020) https://doi.org/10.1109/ACCESS.2020.3001191
-4. Skogberg et al. (2017) https://doi.org/10.1021/acs.biomac.7b00963
+5. Mäki et al. (2015) https://doi.org/10.1115/1.4028501
+6. Kreutzer et al. (2017) https://doi.org/10.1016/j.jneumeth.2017.01.019
+7. Rajan et al. (2020) https://doi.org/10.1109/ACCESS.2020.3001191
+8. Skogberg et al. (2017) https://doi.org/10.1021/acs.biomac.7b00963
 
+</details>
 
 ## Project Researcher @ Tampere University of Technology (_Aug 2010 - Sep 2011_)
 
@@ -138,9 +180,11 @@ My study was related to immunoassay in microchannels and how they could be used 
 ## Thesis Worker and Research Assistant @ Tampere University of Technology (_June 2006 - Aug 2010_)
 I worked in OPTIMI (Optically actuated microfluidics) project funded by Academy of Finland and collaborated with researchers from Helsinki University of Technology. My task was to model and test optically induced electric fields and to study how they could be used in microfluidics applications. [1, 2]
 
-Selected References:
+<details>
+  <summary> **Selected References** </summary>  
 1. Master thesis (2010), titled 'Optically induced electric fields and their use in microfluidics and cell manipulation applications' is available in https://urn.fi/URN:NBN:fi:tty-201008171286
 2. Mäki et al. (2010).  'Modeling continuous optoelectrowetting device', in Proceedings of the 2nd European Conference on Microfluidics - Microfluidics 2010, Toulouse, December 8-10, 2010, https://researchportal.tuni.fi/en/publications/modeling-continuous-optoelectrowetting-device
+</details>
 
 
 <!-- ############# Projects ############# -->
@@ -155,11 +199,13 @@ CoEBoC brought together six research groups from Tampere University: microsystem
 
 **Keywords**: microsystems, microfluidics, fem, data analysis, control engineering, iPS, adult stem cells, cardiomyocyte, neuron, imaging
 
-**References**
+<details>
+  <summary> **Selected References** </summary>  
 1. CoEBoC, Centre of Excellence in Body on-Chip Research, https://research.tuni.fi/coeboc/
 2. Micro- and Nanosystems Research Group, https://research.tuni.fi/mst/ 
 3. Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 
 4. Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668
+</details>
 
 
 ## HS: Human Spare Parts, 2011-2019
@@ -169,7 +215,7 @@ In this multidisciplinary, research-oriented Business Finland (former TEKES) Hum
 
 **Keywords**: microsystems, microfluidics, iPS, adult stem cells, biomaterials, biomedical engineering
 
-**References**: 
+**Selected References**: 
 See _Selected References_ list in [Doctoral Researcher](#doctoral-researcher--tampere-university-of-technology-sep-2011---aug-2018) section.
 
 
@@ -186,9 +232,11 @@ Developed method and tool (DatAnalyzer) to analyze field potential (FP) signals 
 ![DatAnalyzer in action](/pics/DatAnalyzer.png)
 
 Software has been used at least in the following publications:
-- Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
-- Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
-- Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
+> Gaballah et al. (2022) https://doi.org/10.3390/cells11061045
+> 
+> Häkli et al. (2022) https://doi.org/10.1155/2022/9438281
+> 
+> Häkli et al. (2021) https://doi.org/10.1038/s41598-021-83740-w
 
 
 ## Write LaTeX documents together with co-authors that use MS Word
@@ -233,13 +281,24 @@ Mandarin: A1
 # Publications
 See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ).
 
-> <span style="color:red">**NOTE** </span>
-> This section will be updated, need to modify bad .bib file, maybe convert then here https://bibtex.online/. 
+<div align="left">
+  <a href="https://scholar.google.com/citations?user=bmCs6M0AAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" target="_blank" />
+  </a>
+  <a href="https://orcid.org/0000-0001-7565-3530" target="_blank">
+    <img src="https://img.shields.io/badge/ORCHID%20X-Blue.svg" />
+  </a>
+</div>
+<br/>
+
+
+<span style="color:red">**NOTE** </span> This section will be updated, need to modify bad .bib file, maybe convert then here https://bibtex.online/. 
 
 
 ## Selected Publications
 <details>
   <summary> List </summary>  
+
 > Yrjänäinen, Alma, Elina, Mesiä, Ella, Lampela, Joose, Kreutzer, Jorma, Vihinen, Kaisa, Tornberg, Hanna, Vuorenpää, Susanna, Miettinen, Pasi, Kallio, and **Antti-Juhana, Mäki**. "Barrier-free, open-top microfluidic chip for generating two distinct, interconnected 3D microvascular networks".Scientific Reports 14, no.1 (2024): 22916.
 
 > 
@@ -248,7 +307,7 @@ See also [my Scholar profile](https://scholar.google.com/citations?user=bmCs6M0A
 
 ## Full Publications List
 <details>
-  <summary> List </summary>  
+  <summary> Show </summary>  
 
 > A. -J. Mäki, J. T. Koivumäki, J. Hyttinen and P. Kallio, "Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2023.3309668.
 
