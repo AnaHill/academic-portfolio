@@ -54,7 +54,7 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
 <!-- 🔍 *Additional references are available upon request.*   -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
- # <span style="color:#228B22;">Research</span>
+# <span style="color:#228B22;">Research</span>
 <div align="left">
   <a href="https://scholar.google.com/citations?user=bmCs6M0AAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" target="_blank" />
