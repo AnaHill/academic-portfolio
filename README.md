@@ -33,9 +33,6 @@ Check out my [<span style="color:red">**work portfolio**</span>](https://anahill
 </nav>
 <!-- ## NAVIGATOR ENDS-->
 
-For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/).  
-<!-- 🔍 *Additional references are available upon request.*   -->
-
 I’d love to hear from you! Whether you have an exciting research idea where I could contribute—because science is fun! 👨‍🔬—or just want to discuss my work, feel free to reach me out.  
 
 <div align="left">
@@ -49,8 +46,10 @@ I’d love to hear from you! Whether you have an exciting research idea where I 
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
   <br/>
-  <br/>
 </div>
+
+For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/).  
+<!-- 🔍 *Additional references are available upon request.*   -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # Research
@@ -66,12 +65,6 @@ I’d love to hear from you! Whether you have an exciting research idea where I 
   </a>
 </div>
 <!-- <br/> -->
-
-<!-- links 
-- [Google Scholar profile](https://scholar.google.com/citations?user=bmCs6M0AAAAJ "Scholar profile")
-- [doctoral dissertation](https://urn.fi/URN:ISBN:978-952-15-4174-2 "dissertation")
-- [ORCHID 0000-0001-7565-3530](https://orcid.org/0000-0001-7565-3530 "orchid")
--->
 
 My research focused on **control engineering**, **microfluidics**, **mathematical modeling** using both **Simulink & MATLAB** and **FEM** (**COMSOL**), and **data analysis** with **MATLAB**.
 
@@ -96,35 +89,33 @@ M. Sc. (Tech.), Tampere University of Technology, July 2010
 Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be do not hesitate to contact me if you would have some research study in your mind. 👨‍🔬
 
 <span style="color:blue">**NOTE** </span>
-These are on-going projects that _might_ be finished at one day. 🤓
+These are projects I’m actively working on—whether they’ll ever be *truly* finished is another story! 🤓 I also plan to start blogging, and these will likely be my first topics. Stay tuned! ✍️  
+
 
 ### My Tips for Academy [link](https://github.com/AnaHill/Tips-for-Academy)
 > Sharing my tips & tricks for the academic career. For example, how to make "version control" clever in the case of you are not familiar with git etc
 
-### How to write scientific papers [<span style="color:red"> repo coming soon(ish)</span>]() 
+### How to write scientific papers [<span style="color:red"> link coming soon(ish)</span>]() 
 
 > A follow-up to my [Write LaTeX Documents using Word](https://github.com/AnaHill/Write-LaTeX-documents-using-Word) guide, this post explores how you can leverage **VS Code, Markdown, Pandoc, LaTeX, and BibTeX** to efficiently format and publish high-quality (scientific) papers.  
 > 
 > **P.S.** 🚀 *Effortless writing not guaranteed—but at least the workflow is smooth(er)!* 🤓  
 
 ### How to set up Python environments for data projects [link](https://github.com/AnaHill/How-to-set-up-Python-environments-for-data-projects)
-> My proposal how to set up Python environment for (hobby) data projects by combining  **Miniconda, pip Code,...**
+> My proposal how to set up Python environment for (hobby) data projects by combining  **Miniconda, pip, VS Code,...**
 
-<!-- ### Hourly Researcher ### -->
-## Hourly Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
-I continued to work as a part-time researcher with Professor Pasi Kallio, finishing following publications. 
+<!-- ### Part-Time Postdoctoral Researcher ### -->
+## Part-Time Postdoctoral Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
+I continued to work as a part-time (approx. 10 hours/month) researcher with Professor Pasi Kallio, finishing following publications. 
 
 > Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last author**)
 
 🚀 *Bringing the future of tissue engineering one step closer!*  
 I lead a **multidisciplinary research team** that has developed a groundbreaking **"body-on-chip" platform** for studying vascularized **3D cell co-cultures**. Our team introduced an **innovative open-top microfluidic chip** that enables the cultivation of **two distinct 3D cell cultures** within a single device—**without physical barriers**. This breakthrough technology opens new possibilities for **studying cell-cell interactions** in a precisely controlled microenvironment and advancing **drug testing** applications.  
 
-
-
 > Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668  
 
 I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures. This research offers valuable guidance for scientists aiming to standardize experimental conditions and improve the reliability of cardiomyocyte-based assays.
-
 
 > Mäki et al. (2023) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
 
