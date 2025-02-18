@@ -1,25 +1,42 @@
-<!-- # A-J Mäki, PhD & Hobby Scientist -->
+<!-- # A-J Mäki, PhD & Life-Long Reseacher -->
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Current+Hobby+Scientist;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=false&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Moro!+Hello!+👋;I'm+A-J+Mäki,+PhD;Data+Engineer;Former+Postdoc;Life-Long+Researcher;" />
 </h1>
-Welcome to My Research Portfolio.
+
+# 🚀 Welcome to My Research Portfolio  
+
+Here, I showcase a **lifelong journey in research**, driven by **curiosity, continuous learning, and a deep passion for data**. I bring together a **strong academic background** with hands-on expertise in **data analysis, machine learning, and data engineering**—a true **data nerd** at heart! 🤓 
+
+🔍 **Want to see what I do daily?**  
+Check out my [<span style="color:red">**work portfolio**</span>](https://anahill.github.io/portfolio/ "my work portfolio") to learn more about my **current role as a Data Engineer** at [**Solita**](https://www.solita.fi/ "www.solita.fi").  
+
+<!-- ## NAVIGATOR -->
+<style>
+  .nav-link {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: green;
+    text-decoration: none; /* Removes underline */
+  }
+
+  .nav-link:hover {
+    color: #DAA520; /* Changes color on hover */
+  }
+</style>
+
 <nav> 
-  <!-- <a href="#about">About</a> | -->
-  <a href="#research">Research</a> |
-  <a href="#projects">Projects</a> |
-  <a href="#publications">Publications</a> |
-  <!-- <a href="#contact">Contact</a> -->
+  <a href="#research" class="nav-link">Research</a> 
+  <a style="font-size:1.5rem;"> | </a>
+  <a href="#projects" class="nav-link">Projects</a> 
+  <a style="font-size:1.5rem;"> | </a>
+  <a href="#publications" class="nav-link">Publications</a>
 </nav>
+<!-- ## NAVIGATOR ENDS-->
 
-<!-- </br> -->
+For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/).  
+<!-- 🔍 *Additional references are available upon request.*   -->
 
-<span style="color:red"> **NOTE** </span> Currently, I work as a **data engineer[@Solita](https://www.solita.fi/ "Solita")**, more about that can be found <span style="color:red"> [**here**](https://anahill.github.io/portfolio/ "my work portfolio")</span>. 
-
-I’d love to hear from you! Whether you have an exciting research idea where I could contribute—because science is fun! 👨‍🔬—or just want to discuss my work, feel free to reach out.  
-
-For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/). 🔍 *Additional references are available upon request.*  
-<!-- Other references available upon request  -->
-
+I’d love to hear from you! Whether you have an exciting research idea where I could contribute—because science is fun! 👨‍🔬—or just want to discuss my work, feel free to reach me out.  
 
 <div align="left">
   <a href="mailto:maki.antti.j@gmail.com">
@@ -31,8 +48,9 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
   <a href="https://anahill.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
+  <br/>
+  <br/>
 </div>
-<!-- <br/> -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
 # Research
@@ -41,7 +59,7 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
     <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" target="_blank" />
   </a>
   <a href="https://orcid.org/0000-0001-7565-3530" target="_blank">
-    <img src="https://img.shields.io/badge/ORCHID%20X-Blue.svg" />
+    <img src="https://img.shields.io/badge/ORCHID%20-Blue.svg" />
   </a>
   <a href="https://anahill.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
@@ -57,32 +75,24 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
 
 My research focused on **control engineering**, **microfluidics**, **mathematical modeling** using both **Simulink & MATLAB** and **FEM** (**COMSOL**), and **data analysis** with **MATLAB**.
 
-![my_expertise](pics/bubble_expertise_academic.png)
+![my_expertise](pics/bubble_expertise_academic.png "my academic expertise")
 <!-- TODO: Bubble pic academics + data engineer&nerd -->
-
-<!-- **Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
-
-**Main tools**: MATLAB & Simulink, COMSOL, Soft lithography (pdms) -->
-<!-- <br> <p align="left">
-<img src="https://skillicons.dev/icons?i=matlab,powershell" />
-</p> <hr> -->
 
 <!-- ############# -->
 # Education
 D. Sc. (Tech.), Tampere University of Technology, Sep 2018
-> Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
+- Doctoral dissertation '_Modeling and Control of Microscale Cell Culture Environments_' available [here](https://urn.fi/URN:ISBN:978-952-15-4174-2 "trepo.tuni.fi")
 
 My Ph.D. work involved designing and implementing automation and control systems, mathematical modeling and data handling using MATLAB and Simulink, FEM simulations with COMSOL, and much laboratory and design work related to microsystems & microfluidics.
 
 M. Sc. (Tech.), Tampere University of Technology, July 2010  
-> Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
+- Thesis '_Optically induced electric fields and their use in microfluidics and cell manipulation applications_' is available [here](https://urn.fi/URN:NBN:fi:tty-201008171286 "trepo.tuni.fi") and was presented in the 2nd European Conference on Microfluidics-Microfluidics 2010, Toulouse, December 8-10, 2010. 
 <!-- - Student exchange, Hong Kong Polytechnic University, 2006-2007   -->
 
 <!-- ############# WORK ############# -->
 # Academic Work Experience
 
-<!-- ### Hobby Scientist ### -->
-## Hobby Scientist (_Jan 2025 - Present_)
+## Lifelong Researcher & Passionate Hobby Scientist (_Jan 2025 – Present_)  
 Currently, I focus on continuous learning and on my hobby projects, some of them listed below. But, please be do not hesitate to contact me if you would have some research study in your mind. 👨‍🔬
 
 <span style="color:blue">**NOTE** </span>
