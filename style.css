@@ -1,0 +1,25 @@
+/* Style for Markdown Headings */
+h1 {
+    color: #228B22;  /* Forest Green */
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #1E90FF;  /* Dodger Blue */
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+h3 {
+    color: #FF8C00;  /* Dark Orange */
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+h4 {
+    color: #8A2BE2;  /* Blue Violet */
+    font-size: 1.3rem;
+    font-weight: bold;
+}
