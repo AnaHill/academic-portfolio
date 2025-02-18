@@ -1,4 +1,15 @@
 # some text that might be usefull
+## headings värit
+```markdown
+# <span style="color:#228B22;">Research</span>
+## <span style="color:#1E90FF;">Projects</span>
+### <span style="color:#FF8C00;">Publications</span>
+
+```
+<!-- # <span style="color:#228B22;">Research</span>
+## <span style="color:#1E90FF;">Projects</span>
+### <span style="color:#FF8C00;">Publications</span> -->
+
 
 ## Research
 <!-- **Research areas**: microfluidics, control engineering, modeling, fem, data analysis, pdms, ips cells
