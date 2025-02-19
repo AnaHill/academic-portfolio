@@ -27,7 +27,7 @@ Check out my [<span style="color:red">**work portfolio**</span>](https://anahill
 <nav> 
   <a href="#research" class="nav-link">Research </a> 
   <a style="font-size:1.5rem;"> | </a>
-  <a href="#academic-work-experience" class="nav-link">Academic Work Experience </a> 
+  <a href="#academic-work-experience" class="nav-link"> Work Experience </a> 
   <a style="font-size:1.5rem;"> | </a>
   <a href="#projects" class="nav-link">Projects </a> 
   <a style="font-size:1.5rem;"> | </a>
