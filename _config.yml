@@ -3,5 +3,3 @@ logo: "https://anahill.github.io/pics/headshot_circle_ajm.png"
 description: Former postdoc, lifelong researcher
 show_downloads: true
 theme: jekyll-theme-minimal 
-# include: ["style.css"] # just screwing things
-# markdown: GFM
