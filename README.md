@@ -13,7 +13,7 @@ Check out my [<span style="color:red">**work portfolio**</span>](https://anahill
 <!-- ## NAVIGATOR -->
 <style>
   .nav-link {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: bold;
     color: green;
     text-decoration: none; /* Removes underline */
@@ -24,15 +24,21 @@ Check out my [<span style="color:red">**work portfolio**</span>](https://anahill
   }
 </style>
 
+<!-- <span style="color:blue;font-size:1.5rem;">**Navigate directly**</span> -->
+<div class="nav-highlight">
+  <strong>🚀 Quick Navigation:</strong> Use the links below to jump to key sections!
+</div>
+
 <nav> 
-  <a href="#research" class="nav-link">Research </a> 
-  <a style="font-size:1.5rem;"> | </a>
-  <a href="#academic-work-experience" class="nav-link"> Work Experience </a> 
-  <a style="font-size:1.5rem;"> | </a>
-  <a href="#projects" class="nav-link">Projects </a> 
-  <a style="font-size:1.5rem;"> | </a>
-  <a href="#publications" class="nav-link">Publications </a>
+
+
+<nav>
+  <a href="#research" class="nav-link">Research</a> |
+  <a href="##academic-work-experience" class="nav-link">Work Experience</a> |
+  <a href="#projects" class="nav-link">Projects</a> |
+  <a href="#publications" class="nav-link">Publications</a>
 </nav>
+
 <!-- ## NAVIGATOR ENDS-->
 
 I’d love to hear from you! Whether you have an exciting research idea where I could contribute—because science is fun! 👨‍🔬—or just want to discuss my work, feel free to reach me out.  
@@ -106,26 +112,32 @@ These are projects I’m actively working on—whether they’ll ever be *truly*
 ### How to set up Python environments for data projects [link](https://github.com/AnaHill/How-to-set-up-Python-environments-for-data-projects)
 > My proposal how to set up Python environment for (hobby) data projects by combining  **Miniconda, pip, VS Code,...**
 
+
 <!-- ### Part-Time Postdoctoral Researcher ### -->
-## Part-Time Postdoctoral Researcher @ Tampere University (_Nov 2022 - Dec 2024_)
+## Visiting Scholar @ Tampere University (_Nov 2022 - Dec 2024_)
 I continued to work as a part-time (approx. 10 hours/month) researcher with Professor Pasi Kallio, finishing following publications. 
 
-> Yrjänäinen et al. (2024) https://doi.org/10.1038/s41598-024-74493-3 (**last author**)
+### Yrjänäinen et al. (2024) _Barrier-free, open-top microfluidic chip for generating two distinct, interconnected 3D microvascular networks_ [link](https://doi.org/10.1038/s41598-024-74493-3 "doi: 10.1038/s41598-024-74493-3") (<span style="color:black">**last author**</span>)
 
-🚀 *Bringing the future of tissue engineering one step closer!*  
+> 🚀 *Bringing the future of tissue engineering one step closer!*  
 I lead a **multidisciplinary research team** that has developed a groundbreaking **"body-on-chip" platform** for studying vascularized **3D cell co-cultures**. Our team introduced an **innovative open-top microfluidic chip** that enables the cultivation of **two distinct 3D cell cultures** within a single device—**without physical barriers**. This breakthrough technology opens new possibilities for **studying cell-cell interactions** in a precisely controlled microenvironment and advancing **drug testing** applications.  
 
-> Mäki et al. (2024) https://doi.org/10.1109/TASE.2023.3309668  
+### Mäki et al. (2024) _Simulation-Based Study of Control Strategies for Beating of Human Cardiomyocyte Cultures_ [link](https://doi.org/10.1109/TASE.2023.3309668)  
 
-I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures. This research offers valuable guidance for scientists aiming to standardize experimental conditions and improve the reliability of cardiomyocyte-based assays.
+> I developed a fuzzy controller and a mathematical model to simulate and control temperature-dependency of beating human cardiomyocyte cultures. This research offers valuable guidance for scientists aiming to standardize experimental conditions and improve the reliability of cardiomyocyte-based assays.
 
-> Mäki et al. (2023) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
+### Mäki et al. (2023) _Opinion: The correct way to analyze FP signals_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10205591.svg)](https://doi.org/10.5281/zenodo.10205591)
 
-In November 2023, I published a comprehensive report titled **"Opinion: The correct way to analyze FP signals"**. This work encapsulates my extensive experience in analyzing **field potential (FP) signals** derived from **2D human-induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) cultures**. 
+> In November 2023, I published a comprehensive report titled **"Opinion: The correct way to analyze FP signals"**. This work encapsulates my extensive experience in analyzing **field potential (FP) signals** derived from **2D human-induced pluripotent stem cell-derived cardiomyocyte (hiPSC-CM) cultures**. 
 
-While developing the **DatAnalyzer** software ([GitHub Repository](https://github.com/AnaHill/DatAnalyzer?utm_source=chatgpt.com)), I observed a wide array of methodologies used for FP signal analysis across various studies. This inconsistency often led to confusion, highlighting the need for a **cohesive analytical framework**.  
+<details>
+  <summary> Show more </summary>   
 
-Driven by this realization, I dedicated significant effort to produce an academically rigorous report that—despite not undergoing formal peer review process—offers valuable **insights and guidance** for researchers navigating the complexities of FP signal analysis.  
+> While developing the **DatAnalyzer** software ([GitHub Repository](https://github.com/AnaHill/DatAnalyzer?utm_source=chatgpt.com)), I observed a wide array of methodologies used for FP signal analysis across various studies. This inconsistency often led to confusion, highlighting the need for a **cohesive analytical framework**.  
+> 
+> Driven by this realization, I dedicated significant effort to produce an academically rigorous report that—despite not undergoing formal peer review process—offers valuable **insights and guidance** for researchers navigating the complexities of FP signal analysis.  
+
+</details>
 
 
 <!-- ### Postdoc ### -->
