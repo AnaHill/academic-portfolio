@@ -1,8 +1,7 @@
-title:  A-J Mäki, PhD # &  Scientist # Antti-Juhana Mäki, PhD
+title:  A-J Mäki, PhD
 logo: "https://anahill.github.io/pics/headshot_circle_ajm.png"
-description: Data Engineer, Former postdoc, lifelong researcher
+description: Data Engineer & Life-Long Researcher, Former Postdoc
 show_downloads: true
-# theme: jekyll-theme-minimal 
 remote_theme: pages-themes/merlot@v0.2.0
 plugins:
 - jekyll-remote-theme
