@@ -9,7 +9,8 @@ Here, I showcase a **lifelong journey in research**, driven by **curiosity, cont
 
 🔍 **Want to see what I do daily?**  
 To learn more about my **current role as a Data Engineer** at [**Solita**](https://www.solita.fi/ "www.solita.fi"), check out  
-[<span style="color:red">**👉 🤓🛠️ My Work Portfolio👈**</span>](https://anahill.github.io/portfolio/ "my work portfolio") 
+[<span style="color:red">**👉 🤓🛠️ My Work Portfolio👈**</span>](https://anahill.github.io/portfolio/ "my work portfolio")
+
 <!-- ## NAVIGATOR -->
 <style>
   .nav-link {
@@ -29,9 +30,7 @@ To learn more about my **current role as a Data Engineer** at [**Solita**](https
   <strong>🚀 Quick Navigation:</strong> Use the links below to jump to key sections!
 </div>
 
-<nav> 
-
-
+<!-- <nav>  -->
 <nav>
   <a href="#research" class="nav-link" title="My Research">Research</a> -
   <a href="##academic-work-experience" class="nav-link" title="My Acdemic Work Experience">Work Experience</a> -
@@ -61,7 +60,7 @@ For more insights into my research, you can also contact **Professor Pasi Kallio
 <!-- 🔍 *Additional references are available upon request.*   -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
-# <span style="color:#228B22;">Research</span>
+# <span style="color:#228B22;">👨‍🔬Research</span>
 <div align="left">
   <a href="https://scholar.google.com/citations?user=bmCs6M0AAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google-Scholar-lightgrey" target="_blank" />
