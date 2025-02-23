@@ -25,12 +25,12 @@ To learn more about my **current role as a Data Engineer** at [**Solita**](https
   }
 </style>
 
-</br>
+<br>
 <!-- <span style="color:blue;font-size:1.5rem;">**Navigate directly**</span> -->
-<div class="nav-highlight">
-  <strong>🚀 Quick Navigation:</strong> Use the links below to jump to key sections!
+<div class="nav-highlight" style="font-size: 1.2rem; font-weight: bold;">
+  <strong>🚀 Quick Navigation</strong> 
 </div>
-
+ Use the links below to jump to key sections!
 <nav>
   <a href="#research" class="nav-link" title="My Research">Research</a> -
   <a href="##academic-work-experience" class="nav-link" title="My Acdemic Work Experience">Work Experience</a> -
