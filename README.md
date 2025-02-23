@@ -8,8 +8,8 @@
 Here, I showcase a **lifelong journey in research**, driven by **curiosity, continuous learning, and a deep passion for data**. I bring together a **strong academic background** with hands-on expertise in **data analysis, machine learning, and data engineering**—a true **data nerd** at heart! 🤓 
 
 🔍 **Want to see what I do daily?**  
-Check out my [<span style="color:red">**work portfolio**</span>](https://anahill.github.io/portfolio/ "my work portfolio") to learn more about my **current role as a Data Engineer** at [**Solita**](https://www.solita.fi/ "www.solita.fi").  
-
+To learn more about my **current role as a Data Engineer** at [**Solita**](https://www.solita.fi/ "www.solita.fi"), check out  
+[<span style="color:red">**👉 🤓🛠️ My Work Portfolio👈**</span>](https://anahill.github.io/portfolio/ "my work portfolio") 
 <!-- ## NAVIGATOR -->
 <style>
   .nav-link {
@@ -33,10 +33,10 @@ Check out my [<span style="color:red">**work portfolio**</span>](https://anahill
 
 
 <nav>
-  <a href="#research" class="nav-link">Research</a> |
-  <a href="##academic-work-experience" class="nav-link">Work Experience</a> |
-  <a href="#projects" class="nav-link">Projects</a> |
-  <a href="#publications" class="nav-link">Publications</a>
+  <a href="#research" class="nav-link" title="My Research">Research</a> -
+  <a href="##academic-work-experience" class="nav-link" title="My Acdemic Work Experience">Work Experience</a> -
+  <a href="#projects" class="nav-link" title="Project that I have been working on">Projects</a> -
+  <a href="#publications" class="nav-link" title="My Pulications listed">Publications</a>
 </nav>
 
 <!-- ## NAVIGATOR ENDS-->
@@ -57,6 +57,7 @@ I’d love to hear from you! Whether you have an exciting research idea where I 
 </div>
 
 For more insights into my research, you can also contact **Professor Pasi Kallio**, who leads the [Micro- and Nanosystems Research Group](https://research.tuni.fi/mst/).  
+
 <!-- 🔍 *Additional references are available upon request.*   -->
 
 <!-- ## 🛠️ Main Research Topics, Areas, and Tools -->
