@@ -25,6 +25,7 @@ To learn more about my **current role as a Data Engineer** at [**Solita**](https
   }
 </style>
 
+</br>
 <!-- <span style="color:blue;font-size:1.5rem;">**Navigate directly**</span> -->
 <div class="nav-highlight">
   <strong>🚀 Quick Navigation:</strong> Use the links below to jump to key sections!
